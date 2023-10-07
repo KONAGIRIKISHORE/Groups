@@ -21,6 +21,10 @@ public class student {
     private String firstName;
     private String lastName;
     private int age;
+    private String rollNo;
+    private String email;
+    private String mobile;
+
 
     // Constructors, getters, setters, and other methods
 
